@@ -37,4 +37,8 @@
 ### Learning/Wanna learn:
 | Rust | Godot |
 | - | - |
-| <img src="https://rust-lang.org
+| <img src="https://rust-lang.org/logos/rust-logo-512x512.png" title="Rust" alt="Rust" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="55" height="55"/> |
+
+
+
+
