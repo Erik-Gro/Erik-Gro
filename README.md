@@ -30,11 +30,12 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity Engine" alt="Unity Engine" width="55" height="55"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9WG5lQXSvoBvVFNVWAKn_cCXR8ddEMx3GQ&s" title="Löve Engine" alt="Löve Engine" width="55" height="55"/> |
 
 ### Other valuable tools:
-| Docker | Figma | MongoDB
-| - | - | - |
-| <img src="https://camo.githubusercontent.com/2d821f427e22599bab98d58d10af94518c146882fb0037e742f69354aacacb6c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> |
+| Docker | Figma | MongoDB | Blender | Webpack |
+| - | - | - | - | - |
+| <img src="https://camo.githubusercontent.com/2d821f427e22599bab98d58d10af94518c146882fb0037e742f69354aacacb6c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="55" height="55"/> |
 
-### Learning/Wanna learn:
+
+### Learning/Considering to learn:
 | Rust | Godot |
 | - | - |
 | <img src="https://rust-lang.org/logos/rust-logo-512x512.png" title="Rust" alt="Rust" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="55" height="55"/> |
