@@ -1,7 +1,7 @@
-# Hello and welcome to page that describes me as a software engineer.
+# Greetings and welcome to my page, which provides an overview of my professional background and expertise as a software engineer.
 ## 💼 Fullstack developer.
 ## ✨ Interested in: 3d, Frontend, Backend, Automatisation and Game development.
-## 📚 Constantly improving my existing stack and learning new stuff through documentation/courses/practice.
+## 📚 I am committed to continuously enhancing my current technology stack while also acquiring new knowledge through documentation, coursework, and practical application.
 ### Languages ​​that I feel comfortable with:
 | JS | TypeScript | Python | C# | Lua | HTML | CSS | Sass | SQL |
 | - | - | - | - | - | - | - | - | - |
